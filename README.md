@@ -1,4 +1,5 @@
-# Fase1-230612-EquiTerme
+# Fase1-230612-EquiTerme ([mappa](https://umap.openstreetmap.fr/it/map/fase1-230612-equiterme_1041688))
+Ricognizione a Equi terme per localizzare le grotte nelle vicinanze e come base per Tenerano e Gabellaccia
 ## Percorso: Grotta della api e ritorno
 *Non è disponibile l'immagine dell'accesso al percorso* 
 
