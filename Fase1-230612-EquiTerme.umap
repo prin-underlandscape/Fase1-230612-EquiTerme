@@ -2187,7 +2187,8 @@
             "_umap_options": {
               "popupTemplate": "Default"
             },
-            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
+            "GitHubURL": "https://github.com/prin-underlandscape/Fase1-230612-EquiTerme",
+            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/12-giugno-2023-solco-dequi"
           }
         },
         {
@@ -6754,7 +6755,8 @@
             "_umap_options": {
               "popupTemplate": "Default"
             },
-            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
+            "GitHubURL": "https://github.com/prin-underlandscape/Fase1-230612-EquiTerme",
+            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/12-giugno-2023-solco-dequi"
           }
         }
       ],
@@ -6766,7 +6768,7 @@
         "color": "Brown",
         "popupShape": "Panel",
         "popupTemplate": "Table",
-        "popupContentTemplate": "# {Titolo}\n##   ( [[https://sites.google.com/view/prin-underlandscape/home-page/attivit%C3%A0-sul-campo/{Link}|link]]) \n{Descrizione}\n--- \n**Lunghezza** (km): {Lunghezza}\n**Durata**: {Durata}\n**Dislivello in salita** (m): {Dislivello in salita}\n**Dislivello in discesa** (m): {Dislivello in discesa} \n--- \nRegistrato il {Data} alle {Ora} \ncon {Strumento} \nda {Autore}"
+        "popupContentTemplate": "# {Titolo}\n##   ( [[https://sites.google.com/view/prin-underlandscape/home-page/attivit%C3%A0-sul-campo/{Link}|link]]) \n##   [[{GitHubURL}|GitHub repository]] \n{Descrizione}\n--- \n**Lunghezza** (km): {Lunghezza}\n**Durata**: {Durata}\n**Dislivello in salita** (m): {Dislivello in salita}\n**Dislivello in discesa** (m): {Dislivello in discesa} \n--- \nRegistrato il {Data} alle {Ora} \ncon {Strumento} \nda {Autore}"
       }
     },
     {
@@ -6796,7 +6798,8 @@
             "_umap_options": {
               "popupTemplate": "Default"
             },
-            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
+            "GitHubURL": "https://github.com/prin-underlandscape/Fase1-230612-EquiTerme",
+            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/12-giugno-2023-solco-dequi"
           }
         },
         {
@@ -6823,7 +6826,8 @@
             "_umap_options": {
               "popupTemplate": "Default"
             },
-            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
+            "GitHubURL": "https://github.com/prin-underlandscape/Fase1-230612-EquiTerme",
+            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/12-giugno-2023-solco-dequi"
           }
         },
         {
@@ -6850,7 +6854,8 @@
             "_umap_options": {
               "popupTemplate": "Default"
             },
-            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
+            "GitHubURL": "https://github.com/prin-underlandscape/Fase1-230612-EquiTerme",
+            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/12-giugno-2023-solco-dequi"
           }
         },
         {
@@ -6877,7 +6882,8 @@
             "_umap_options": {
               "popupTemplate": "Default"
             },
-            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
+            "GitHubURL": "https://github.com/prin-underlandscape/Fase1-230612-EquiTerme",
+            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/12-giugno-2023-solco-dequi"
           }
         },
         {
@@ -6904,7 +6910,8 @@
             "_umap_options": {
               "popupTemplate": "Default"
             },
-            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
+            "GitHubURL": "https://github.com/prin-underlandscape/Fase1-230612-EquiTerme",
+            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/12-giugno-2023-solco-dequi"
           }
         },
         {
@@ -6931,7 +6938,8 @@
             "_umap_options": {
               "popupTemplate": "Default"
             },
-            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
+            "GitHubURL": "https://github.com/prin-underlandscape/Fase1-230612-EquiTerme",
+            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/12-giugno-2023-solco-dequi"
           }
         }
       ],
@@ -6944,7 +6952,7 @@
         "iconClass": "Ball",
         "popupShape": "Panel",
         "popupTemplate": "Table",
-        "popupContentTemplate": "# {Titolo} {Tag primario}\n{{{Foto}|300}} \n##   [[{Link}|Link]] alla pagina dedicata \n{Descrizione} \n**Tag primario**: {Tag primario}\n**Altri tag**: {Altri tag}\n**Altitudine** (m): {Altitudine} \n--- \nScattata il {Data} alle {Ora} \ncon {Strumento} \nda {Autore}"
+        "popupContentTemplate": "# {Titolo}\n{{{Foto}|300}} \n##   [[{GitHubURL}|GitHub repository]] \n##   [[{Link}|Link]] alla pagina dedicata \n{Descrizione} \n**Tag primario**: {Tag primario}\n**Altri tag**: {Altri tag}\n**Altitudine** (m): {Altitudine} \n--- \nScattata il {Data} alle {Ora} \ncon {Strumento} \nda {Autore}"
       }
     },
     {
@@ -6959,7 +6967,7 @@
         "iconClass": "Ball",
         "popupShape": "Panel",
         "popupTemplate": "Table",
-        "popupContentTemplate": "# {Titolo} \n{{{Foto}|300}} \n \n{Testo} \n \nFID: {fid}"
+        "popupContentTemplate": "# {Titolo} \n{{{Foto}|300}} \n## [[{GitHubURL}|GitHub repository]] \n{Testo} \n \nFID: {fid}"
       }
     },
     {
@@ -6974,7 +6982,7 @@
         "iconClass": "Ball",
         "popupShape": "Panel",
         "popupTemplate": "Table",
-        "popupContentTemplate": "# SITO {Sito}\n{{{Foto}|300}}\n## {Titolo} \n## [[{Link}|Link]] alla pagina dedicata\n{Descrizione}\n---\n**Tipologia**: {Tipologia sito}\n**Definizione**: {Definizione}\n**Cronologia iniziale**: {Cronologia iniziale}\n**Cronologia finale**: {Cronologia finale}\n**Reperti ceramici**: {Reperti ceramici}\n**Reperti geologici**: {Reperti geologici}\n**Reperti organici**: {Reperti organici}\n**Altri manufatti**: {Altri manufatti}\n---\n**Altitudine** (m): {Altitudine}\n**Sicurezza**: {Sicurezza}\n**Accessibilità**: {Accessibilità}\n**Copertura rete mobile**: {Copertura rete mobile}\n**Copertura GPS**: {Copertura GPS}\n---\n**Provincia**: {Provincia}\n**Comune**: {Comune}\n**Toponimo**: {Toponimo}\n**Microtoponimo**: {Microtoponimo}\n**Strade d'accesso**: {Strade d'accesso}\n**Altra localizzazione**: {Altri elementi di localizzazione}\n---\n**Prima visita**: {Data} {Ora}\n**Strumento**: {Strumento}\n[[{Bibliografia}|Link]] alla bibliografia"
+        "popupContentTemplate": "# SITO {Sito}\n{{{Foto}|300}}\n## {Titolo} \n##   [[{GitHubURL}|GitHub repository]] \n## [[{Link}|Link]] alla pagina dedicata\n{Descrizione}\n---\n**Tipologia**: {Tipologia sito}\n**Definizione**: {Definizione}\n**Cronologia iniziale**: {Cronologia iniziale}\n**Cronologia finale**: {Cronologia finale}\n**Reperti ceramici**: {Reperti ceramici}\n**Reperti geologici**: {Reperti geologici}\n**Reperti organici**: {Reperti organici}\n**Altri manufatti**: {Altri manufatti}\n---\n**Altitudine** (m): {Altitudine}\n**Sicurezza**: {Sicurezza}\n**Accessibilità**: {Accessibilità}\n**Copertura rete mobile**: {Copertura rete mobile}\n**Copertura GPS**: {Copertura GPS}\n---\n**Provincia**: {Provincia}\n**Comune**: {Comune}\n**Toponimo**: {Toponimo}\n**Microtoponimo**: {Microtoponimo}\n**Strade d'accesso**: {Strade d'accesso}\n**Altra localizzazione**: {Altri elementi di localizzazione}\n---\n**Prima visita**: {Data} {Ora}\n**Strumento**: {Strumento}\n[[{Bibliografia}|Link]] alla bibliografia"
       }
     }
   ],
