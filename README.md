@@ -1,24 +1,18 @@
 # Fase1-230612-EquiTerme ([mappa](https://umap.openstreetmap.fr/it/map/fase1-230612-equiterme_1041688?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true))
-Ricognizione a Equi terme per localizzare le grotte nelle vicinanze e come base per Tenerano e Gabellaccia
-## Percorso: Grotta della api e ritorno
-*Non è disponibile l'immagine dell'accesso al percorso* 
-
-## POI: I grotta api
+Ricognizione a Equi terme per localizzare le grotte lungo il Solco d'Equi
+## Percorso: Equi Terme-Solco d'Equi (fino Grotta delle Api)
+**Sopralluogo per individuare le grotte attestate lungo il Solco d'Equi**
+## POI: Grotta delle api
 [<img src='/vignettes/9e12338d-3288-47a9-b066-fa450f0fd020.jpg' width='250'/>](/vignettes/9e12338d-3288-47a9-b066-fa450f0fd020.jpg) 
 
 ****
-## Percorso: Verso le cave
-*Non è disponibile l'immagine dell'accesso al percorso* 
-
-## POI: La mia foto - 12/06/23 17:13:17
-[<img src='/vignettes/f3bd8983-13b7-43f0-a639-4104865a04bd.jpg' width='250'/>](/vignettes/f3bd8983-13b7-43f0-a639-4104865a04bd.jpg) 
-
-****
-## POI: Solco d'Equi (orrido) 
+## Percorso: Solco d'Equi
+**Sopralluogo lungo il Solco d'Equi per individuare le grotte dislocate sul percorso**
+## POI: Solco d'Equi
 [<img src='/vignettes/77c46b23-a901-426a-8083-7c060c8fc8db.jpg' width='250'/>](/vignettes/77c46b23-a901-426a-8083-7c060c8fc8db.jpg) 
 
 ****
-## POI: Ometto
+## POI: Segnaletica ometto di pietra
 [<img src='/vignettes/b4c082f7-c32c-48b7-8f79-b649a86b2600.jpg' width='250'/>](/vignettes/b4c082f7-c32c-48b7-8f79-b649a86b2600.jpg) 
 
 ****

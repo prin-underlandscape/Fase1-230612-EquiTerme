@@ -2176,7 +2176,7 @@
           },
           "properties": {
             "ulsp_type": "Percorso",
-            "Titolo": "Grotta della api e ritorno",
+            "Titolo": "Equi Terme-Solco d'Equi (fino Grotta delle Api)",
             "Data": "2023-06-12",
             "Ora": "12:13:28Z",
             "Strumento": "Android HUAWEI FIG-LX1",
@@ -2184,11 +2184,20 @@
             "Durata": "01h 36m",
             "Dislivello in salita": "36",
             "Dislivello in discesa": "42",
+            "Provincia": "Lucca",
+            "Comune": "Fivizzano",
+            "Punto d'accesso": "dal centro del paese di Equi Terme",
+            "Foto accesso": "",
+            "Descrizione": "Sopralluogo per individuare le grotte attestate lungo il Solco d'Equi",
+            "Difficoltà": "Facile",
+            "Segnaletica": "",
+            "Copertura GPS": "Completa",
+            "Copertura rete mobile": "Completa",
             "_umap_options": {
               "popupTemplate": "Default"
             },
             "GitHubURL": "https://github.com/prin-underlandscape/Fase1-230612-EquiTerme",
-            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/12-giugno-2023-solco-dequi"
+            "ULSPLink": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/12-giugno-2023-solco-dequi"
           }
         },
         {
@@ -6744,7 +6753,7 @@
           },
           "properties": {
             "ulsp_type": "Percorso",
-            "Titolo": "Verso le cave",
+            "Titolo": "Solco d'Equi",
             "Data": "2023-06-12",
             "Ora": "15:00:27Z",
             "Strumento": "Android HUAWEI FIG-LX1",
@@ -6752,11 +6761,20 @@
             "Durata": "02h 04m",
             "Dislivello in salita": "143",
             "Dislivello in discesa": "203",
+            "Provincia": "Lucca",
+            "Comune": "Fivizzano",
+            "Punto d'accesso": "",
+            "Foto accesso": "",
+            "Descrizione": "Sopralluogo lungo il Solco d'Equi per individuare le grotte dislocate sul percorso",
+            "Difficoltà": "Facile",
+            "Segnaletica": "",
+            "Copertura GPS": "Completa",
+            "Copertura rete mobile": "Completa",
             "_umap_options": {
               "popupTemplate": "Default"
             },
             "GitHubURL": "https://github.com/prin-underlandscape/Fase1-230612-EquiTerme",
-            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/12-giugno-2023-solco-dequi"
+            "ULSPLink": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/12-giugno-2023-solco-dequi"
           }
         }
       ],
@@ -6786,7 +6804,7 @@
           "properties": {
             "ulsp_type": "POI",
             "Foto": "https://www.gaiagps.com/api/objects/photo/9e12338d-3288-47a9-b066-fa450f0fd020/image/full/?publickey=em6CMy1G9bsjmgAqAwOWjmVt",
-            "Titolo": "I grotta api",
+            "Titolo": "Grotta delle api",
             "Descrizione": "",
             "Altitudine": 331,
             "Data": "2023-06-12",
@@ -6794,40 +6812,14 @@
             "Strumento": "Android HUAWEI FIG-LX1",
             "Autore": "",
             "Tag primario": "",
-            "Altri tag": "",
+            "Altri tag": [
+              "Grotta"
+            ],
             "_umap_options": {
               "popupTemplate": "Default"
             },
             "GitHubURL": "https://github.com/prin-underlandscape/Fase1-230612-EquiTerme",
-            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/12-giugno-2023-solco-dequi"
-          }
-        },
-        {
-          "type": "Feature",
-          "geometry": {
-            "type": "Point",
-            "coordinates": [
-              10.164357,
-              44.166902
-            ]
-          },
-          "properties": {
-            "ulsp_type": "POI",
-            "Foto": "https://www.gaiagps.com/api/objects/photo/f3bd8983-13b7-43f0-a639-4104865a04bd/image/full/?publickey=B50fSfKsypFLaM7N9IJVD5vb",
-            "Titolo": "La mia foto - 12/06/23 17:13:17",
-            "Descrizione": "",
-            "Altitudine": 370,
-            "Data": "2023-06-12",
-            "Ora": "15:13:17Z",
-            "Strumento": "Android HUAWEI FIG-LX1",
-            "Autore": "",
-            "Tag primario": "",
-            "Altri tag": "",
-            "_umap_options": {
-              "popupTemplate": "Default"
-            },
-            "GitHubURL": "https://github.com/prin-underlandscape/Fase1-230612-EquiTerme",
-            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/12-giugno-2023-solco-dequi"
+            "ULSPLink": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/12-giugno-2023-solco-dequi"
           }
         },
         {
@@ -6842,7 +6834,7 @@
           "properties": {
             "ulsp_type": "POI",
             "Foto": "https://www.gaiagps.com/api/objects/photo/77c46b23-a901-426a-8083-7c060c8fc8db/image/full/?publickey=glnh5oMJOf6eqRch8SafVaNV",
-            "Titolo": "Solco d'Equi (orrido) ",
+            "Titolo": "Solco d'Equi",
             "Descrizione": "",
             "Altitudine": 357,
             "Data": "2023-06-12",
@@ -6850,12 +6842,14 @@
             "Strumento": "Android HUAWEI FIG-LX1",
             "Autore": "",
             "Tag primario": "",
-            "Altri tag": "",
+            "Altri tag": [
+              "Attrazione naturalistica"
+            ],
             "_umap_options": {
               "popupTemplate": "Default"
             },
             "GitHubURL": "https://github.com/prin-underlandscape/Fase1-230612-EquiTerme",
-            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/12-giugno-2023-solco-dequi"
+            "ULSPLink": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/12-giugno-2023-solco-dequi"
           }
         },
         {
@@ -6870,7 +6864,7 @@
           "properties": {
             "ulsp_type": "POI",
             "Foto": "https://www.gaiagps.com/api/objects/photo/b4c082f7-c32c-48b7-8f79-b649a86b2600/image/full/?publickey=MFNDaZ3aRBWRLMQwCF9aEwy7",
-            "Titolo": "Ometto",
+            "Titolo": "Segnaletica ometto di pietra",
             "Descrizione": "",
             "Altitudine": 369,
             "Data": "2023-06-12",
@@ -6883,7 +6877,7 @@
               "popupTemplate": "Default"
             },
             "GitHubURL": "https://github.com/prin-underlandscape/Fase1-230612-EquiTerme",
-            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/12-giugno-2023-solco-dequi"
+            "ULSPLink": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/12-giugno-2023-solco-dequi"
           }
         },
         {
@@ -6906,12 +6900,14 @@
             "Strumento": "Android HUAWEI FIG-LX1",
             "Autore": "",
             "Tag primario": "",
-            "Altri tag": "",
+            "Altri tag": [
+              "Attrazione naturalistica"
+            ],
             "_umap_options": {
               "popupTemplate": "Default"
             },
             "GitHubURL": "https://github.com/prin-underlandscape/Fase1-230612-EquiTerme",
-            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/12-giugno-2023-solco-dequi"
+            "ULSPLink": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/12-giugno-2023-solco-dequi"
           }
         },
         {
@@ -6934,12 +6930,14 @@
             "Strumento": "Android HUAWEI FIG-LX1",
             "Autore": "",
             "Tag primario": "",
-            "Altri tag": "",
+            "Altri tag": [
+              "Grotta"
+            ],
             "_umap_options": {
               "popupTemplate": "Default"
             },
             "GitHubURL": "https://github.com/prin-underlandscape/Fase1-230612-EquiTerme",
-            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/12-giugno-2023-solco-dequi"
+            "ULSPLink": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/12-giugno-2023-solco-dequi"
           }
         }
       ],
@@ -6983,6 +6981,21 @@
         "popupShape": "Panel",
         "popupTemplate": "Table",
         "popupContentTemplate": "# SITO {Sito}\n{{{Foto}|300}}\n## {Titolo} \n##   [[{GitHubURL}|GitHub repository]] \n## [[{Link}|Link]] alla pagina dedicata\n{Descrizione}\n---\n**Tipologia**: {Tipologia sito}\n**Definizione**: {Definizione}\n**Cronologia iniziale**: {Cronologia iniziale}\n**Cronologia finale**: {Cronologia finale}\n**Reperti ceramici**: {Reperti ceramici}\n**Reperti geologici**: {Reperti geologici}\n**Reperti organici**: {Reperti organici}\n**Altri manufatti**: {Altri manufatti}\n---\n**Altitudine** (m): {Altitudine}\n**Sicurezza**: {Sicurezza}\n**Accessibilità**: {Accessibilità}\n**Copertura rete mobile**: {Copertura rete mobile}\n**Copertura GPS**: {Copertura GPS}\n---\n**Provincia**: {Provincia}\n**Comune**: {Comune}\n**Toponimo**: {Toponimo}\n**Microtoponimo**: {Microtoponimo}\n**Strade d'accesso**: {Strade d'accesso}\n**Altra localizzazione**: {Altri elementi di localizzazione}\n---\n**Prima visita**: {Data} {Ora}\n**Strumento**: {Strumento}\n[[{Bibliografia}|Link]] alla bibliografia"
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "name": "Risorsa",
+        "displayOnLoad": true,
+        "browsable": true,
+        "remoteData": {},
+        "color": "Brown",
+        "iconClass": "Ball",
+        "popupShape": "Panel",
+        "popupTemplate": "Table",
+        "popupContentTemplate": "# {Titolo}\n{{{Foto}|300}}\n{Descrizione}\n**Altitudine** (m): {Altitudine}\n**Repository GitHub**: [[{GitHubURL}|link]]\n**Pagina descrittiva dell'itinerario**: [[{ULSPLink}|link]]\n**Pagina descrittiva della risorsa** :[[{Link}|link]]\n**Tag primario**: {Tag primario}\n**Altri tag**: {Altri tag}"
       }
     }
   ],
