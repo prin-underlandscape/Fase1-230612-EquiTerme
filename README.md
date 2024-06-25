@@ -1,4 +1,4 @@
-# Fase1-230612-EquiTerme ([mappa](https://umap.openstreetmap.fr/it/map/fase1-230612-equiterme_1041688?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true))
+# Fase1-230612-EquiTerme ([mappa](https://umap.openstreetmap.fr/it/map/fase1-230612-equiterme_1041688))
 Ricognizione a Equi terme per localizzare le grotte lungo il Solco d'Equi
 ## Percorso: Equi Terme-Solco d'Equi (fino Grotta delle Api)
 **Sopralluogo per individuare le grotte attestate lungo il Solco d'Equi**
