@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gpx version="1.1" creator="PyGPX">
+  <wpt lat="44.16964" lon="10.161978">
+    <ele>500</ele>
+    <name>Grotta delle api</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="44.167357" lon="10.163929">
+    <ele>500</ele>
+    <name>Solco d'Equi</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="44.167253" lon="10.164152">
+    <ele>500</ele>
+    <name>Segnaletica ometto di pietra</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="44.15908" lon="10.16799">
+    <ele>500</ele>
+    <name>Cave e Pizzo d'uccello</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="44.1672" lon="10.164227">
+    <ele>500</ele>
+    <name>Grotta della volpe? </name>
+    <desc></desc>
+  </wpt>
+  <trk>
+    <name>Equi Terme-Solco d'Equi (fino Grotta delle Api)</name>
+    <desc>Sopralluogo per individuare le grotte attestate lungo il Solco d'Equi</desc>
+    <trkseg>
+      <trkpt lat="[10.153123, 44.168333, 296, 1686572013]" lon="[10.153094, 44.168373, 303.69899855181575, 1686572010]">
+        <ele>[10.153167, 44.168316, 293.7999445591122, 1686572018]</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Solco d'Equi</name>
+    <desc>Sopralluogo lungo il Solco d'Equi per individuare le grotte dislocate sul percorso</desc>
+    <trkseg>
+      <trkpt lat="[10.163225, 44.169335, 387.77132370043546, 1686582032]" lon="[10.163181, 44.1694, 374.9810989527032, 1686582031]">
+        <ele>[10.163209, 44.169263, 380.5647315084934, 1686582033]</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
